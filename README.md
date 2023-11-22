@@ -14,6 +14,8 @@ awesome lists
 
 - [Learning Research](https://github.com/pengsida/learning_research)
   - 浙江大学[彭思达](https://pengsida.net/)科研经验分享[[Slides]](https://pengsida.net/files/how_to_do_research_v3.pdf) 
+- [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice)
+  - CMU [Paul Pu Liang](https://www.cs.cmu.edu/~pliang/)的博士生建议
 - [Awesome Lists for Tenure-Track Asst. Professors and PhD students](https://github.com/JunweiLiang/awesome_lists)
   - 香港科技大学(广州)[梁俊卫](https://junweiliang.me/)助理教授的助理教授/博士生生存指南 
 - [doing_the_PhD](https://github.com/shengyp/doing_the_PhD)
