@@ -52,7 +52,7 @@
 - [Web of Science](https://webofscience.clarivate.cn/wos/alldb/basic-search)
 - [Engineering Village](https://www.engineeringvillage.com/home.url)
 - [Sci-Hub](https://sci-hub.se/)
-- [connectedpapers](https://www.connectedpapers.com/)
+- [Connected Papers](https://www.connectedpapers.com/)
 - dblp: [Computer science bibliography](https://dblp.org/)
 - CCF: [Recommended Publications by China Computer Federation](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 - THU: [Important Conference Directory](https://www.sist.tsinghua.edu.cn/__local/0/E3/67/303DEC8D1B54395036E70EECAF6_AD515DFB_5643C0.pdf?e=.pdf)
