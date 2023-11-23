@@ -97,6 +97,7 @@
 ## Courses
 - [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 - [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+- [Dive into Deep Learning，D2L.ai](https://github.com/d2l-ai/d2l-zh)
 - [DeepLearning Tutorial](https://github.com/Mikoto10032/DeepLearning)
 
 ## Other Advices
