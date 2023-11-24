@@ -73,6 +73,7 @@
 - [WikiCFP-Security](http://wikicfp.com/cfp/call?conference=security&skip=1)
 - [Acceptance rates for the top-tier AI-related conferences](https://github.com/lixin4ever/Conference-Acceptance-Rate)
 - [Computer-Security-Conference-Acceptance-Rate](https://github.com/liupuz/Computer-Security-Conference-Acceptance-Rate)
+- [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
 
 ## Paper writing & figure drawing
 - [IEEE-Template Selector](https://template-selector.ieee.org/secure/templateSelector/publicationType)
