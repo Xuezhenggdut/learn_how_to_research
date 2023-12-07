@@ -109,6 +109,8 @@
 - [博士新生应该懂得哪些道理？](https://www.zhihu.com/question/338503201/answer/3251327758)
 - [你的科研能力从什么时候开始突飞猛进的？](https://www.zhihu.com/question/524855881/answer/2819447733)
 - [作为一个研究生，有哪些你直呼好用的科研神器？](https://www.zhihu.com/question/484596211)
+- [在信息过剩的时代，你有提升信噪比的能力吗？](https://zhuanlan.zhihu.com/p/358348827)
+- [如何找到高质量信息源？](https://zhuanlan.zhihu.com/p/616303061)
 
 ---
 若该文档对您有所帮助，请在页面右上角点个Star:star:支持一下，谢谢！
