@@ -39,6 +39,7 @@
 搜论文，搜期刊，搜会议，搜代码，搜开源代码论文，搜研究方向，搜课题组，搜基金，搜研究工具，搜模板，搜索如此重要，不同的搜索工具搜索出来的结果天差地别，噪声信息充斥着各个平台，一定要找到有效信息的源头，避免咀嚼过的十八手信息，推荐英文+谷歌/谷歌学术搜索。[Video](https://www.bilibili.com/video/BV1yw411F7J1/?spm_id_from=333.337.search-card.all.click)
 
 - [NSFC Final Project Inquiry](https://kd.nsfc.gov.cn/)
+  - 基金结题报告查询
 
 ## Paper with code
 - **大道至简：** Google Scholar限定词搜索："key word" + "github.com"
@@ -63,11 +64,13 @@
 - [中国电子学会关于《电子技术、通信技术领域高质量科技期刊分级目录（征求意见稿）》和《计算机技术领域高质量科技期刊分级目录（征求意见稿）》的公示](https://www.cie.org.cn/list_43/11070.html)
 - [CSRankings: Computer Science Rankings](https://csrankings.org/#/index?all&us)
 - [LetPub](https://www.letpub.com.cn/)
+  - 基金查询
 
 ## Conference
 - Conference Partner: [Information about Academic Conferences](https://www.myhuiban.com/)
 - WikiCFP: [A Wiki for Calls for Papers](http://www.wikicfp.com/cfp/)
 - [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
+  - CCF推荐会议倒计时
 - [AI Conference Deadlines](https://aideadlin.es/?sub=ML,NLP,DM,KR,CV,CG,RO,SP,AP,HCI)
 - [network-communication-conferences](https://github.com/jwwthu/network-communication-conferences)
 - [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
