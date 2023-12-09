@@ -72,6 +72,7 @@
 - [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
   - CCF推荐会议倒计时
 - [AI Conference Deadlines](https://aideadlin.es/?sub=ML,NLP,DM,KR,CV,CG,RO,SP,AP,HCI)
+  - AI会议倒计时
 - [network-communication-conferences](https://github.com/jwwthu/network-communication-conferences)
 - [Security and Privacy Conference Deadlines](https://sec-deadlines.github.io/)
 - [WikiCFP-Security](http://wikicfp.com/cfp/call?conference=security&skip=1)
@@ -83,19 +84,28 @@
 - [IEEE-Template Selector](https://template-selector.ieee.org/secure/templateSelector/publicationType)
   - IEEE期刊/会议LaTex模板下载
 - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
+  - 写作技巧 
 - [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips)
 - [Paper Picture Writing Code](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
 - [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)
 - [PaperWritingTips](https://github.com/cooelf/PaperWritingTips)
 - [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing)
 - [Python Plotting Tools](https://github.com/guanyingc/python_plot_utils)
+- [LaTeX Tables Editor](https://www.latex-tables.com/)
+  - LaTeX表格工具
 - [Science and Engineering Journal Abbreviations](https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/)
+  - 期刊缩写查询
+- [IlovePDF](https://www.ilovepdf.com/)
+  - PDF工具
 - [iconfont](https://www.iconfont.cn/?spm=a313x.7781069.1998910419.d4d0a486a)
+  - 图标素材
 - [iconfinder](https://www.iconfinder.com/)
+  - 图标素材
 
 ## Presentation (Beamers & Posters)
 - [awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers)
 - [Overleaf-Templates-Presentation](https://www.overleaf.com/latex/templates/tagged/presentation)
+  - Overleaf Presentation模板
 - [Awesome-Beamer-Collection](https://github.com/lemoxiao/Awesome-Beamer-Collection)
 - [bolei_awesome_posters](https://github.com/zhoubolei/bolei_awesome_posters)
 
@@ -105,7 +115,13 @@
 - [Dive into Deep Learning，D2L.ai](https://github.com/d2l-ai/d2l-zh)
 - [DeepLearning Tutorial](https://github.com/Mikoto10032/DeepLearning)
 
+## AIGC
+- [ChatGPT](https://chat.openai.com/)
+- [Bard](https://bard.google.com/chat) 
+- [LLMs-In-China](https://github.com/wgwang/LLMs-In-China)
+
 ## Other Advices
+- Github带Awesome的仓库，例如：[Awesome-FL](https://github.com/youngfish42/Awesome-FL)
 - [博士新生应该懂得哪些道理？](https://www.zhihu.com/question/338503201/answer/3251327758)
 - [你的科研能力从什么时候开始突飞猛进的？](https://www.zhihu.com/question/524855881/answer/2819447733)
 - [作为一个研究生，有哪些你直呼好用的科研神器？](https://www.zhihu.com/question/484596211)
