@@ -90,6 +90,9 @@
 - [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)
 - [PaperWritingTips](https://github.com/cooelf/PaperWritingTips)
 - [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing)
+  - LaTeX 绘图，主要用于画贝叶斯网络、张量分解等
+- [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
+  - Python 得到可用于 LaTeX 的图，主要画 CNN
 - [Python Plotting Tools](https://github.com/guanyingc/python_plot_utils)
 - [LaTeX Tables Editor](https://www.latex-tables.com/)
   - LaTeX表格工具
@@ -101,6 +104,8 @@
   - 图标素材
 - [iconfinder](https://www.iconfinder.com/)
   - 图标素材
+- [pigar](https://github.com/Damnever/pigar)
+  - Python 项目 requirements 文件自动生成工具
 
 ## Presentation (Beamers & Posters)
 - [awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers)
