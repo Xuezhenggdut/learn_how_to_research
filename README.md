@@ -55,6 +55,7 @@
 - [Sci-Hub](https://sci-hub.se/)
 - [Connected Papers](https://www.connectedpapers.com/)
 - [citexs](https://www.citexs.com/)
+  - Connected Papers平替
 - dblp: [Computer science bibliography](https://dblp.org/)
 - CCF: [Recommended Publications by China Computer Federation](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 - THU: [Important Conference Directory](https://www.sist.tsinghua.edu.cn/__local/0/E3/67/303DEC8D1B54395036E70EECAF6_AD515DFB_5643C0.pdf?e=.pdf)
@@ -98,6 +99,8 @@
   - LaTeX表格工具
 - [Science and Engineering Journal Abbreviations](https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/)
   - 期刊缩写查询
+- [番茄人生](https://www.tomatolist.com/)
+  - 一个融合了番茄工作法、紧急重要四象限工作法、GTD工作法 ，最小化到任务栏中即是迷你番茄时钟的待办事项软件
 - [IlovePDF](https://www.ilovepdf.com/)
   - PDF工具
 - [iconfont](https://www.iconfont.cn/?spm=a313x.7781069.1998910419.d4d0a486a)
