@@ -137,4 +137,4 @@
 - [如何找到高质量信息源？](https://mp.weixin.qq.com/s/TkVtanL_8ySXapyXB034qQ)
 
 ---
-若该文档对您有所帮助，请在页面右上角点个Star:star:支持一下，谢谢！
+若该文档对您有所帮助，请在页面右上角点个Star :star: 支持一下，谢谢！
