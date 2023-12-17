@@ -82,7 +82,7 @@
 - [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/)
 
 ## Paper writing & figure drawing
-- [IEEE-Template Selector](https://template-selector.ieee.org/secure/templateSelector/publicationType)
+- [IEEE-Template Selector](https://template-selector.ieee.org/secure/templateSelector/publicationType) | [Learn LaTeX in 30 minutes](https://cn.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
   - IEEE期刊/会议LaTex模板下载
 - [Paper Writing Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
   - 写作技巧 
