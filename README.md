@@ -109,6 +109,8 @@
   - 图标素材
 - [pigar](https://github.com/Damnever/pigar)
   - Python 项目 requirements 文件自动生成工具
+- [GB/T7714—2015 信息与文献 参考文献著录规则](https://lib.tsinghua.edu.cn/wj/GBT7714-2015.pdf)
+  - 中文参考文献引用格式规范
 
 ## Presentation (Beamers & Posters)
 - [awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers)
