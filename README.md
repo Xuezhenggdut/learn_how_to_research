@@ -53,6 +53,7 @@
 - [Web of Science](https://webofscience.clarivate.cn/wos/alldb/basic-search)
 - [Engineering Village](https://www.engineeringvillage.com/home.url)
 - [Sci-Hub](https://sci-hub.se/)
+- [arXiv](https://arxiv.org/)
 - [Connected Papers](https://www.connectedpapers.com/)
 - [citexs](https://www.citexs.com/)
   - Connected Papers平替
