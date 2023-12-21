@@ -26,6 +26,7 @@
   - 南方科技大学[王金宝](https://jinbao-wang.github.io/)的如何做好研究 
 - [research-method](https://github.com/secdr/research-method)
   - 安全学术圈的研究方法
+- 中科院吴怀宇：[献给CV和CG入门者之科研经验浅问细答兼与大家探讨](http://ouc.ai/zhenghaiyong/courses/cv/2015spring/readings/research_experience.pdf)
 
 
 ## Research tools
