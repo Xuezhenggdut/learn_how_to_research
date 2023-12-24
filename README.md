@@ -99,7 +99,7 @@
 - [Python Plotting Tools](https://github.com/guanyingc/python_plot_utils)
 - [LaTeX Tables Editor](https://www.latex-tables.com/)
   - LaTeX表格工具
-- [Science and Engineering Journal Abbreviations](https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/)
+- [Science and Engineering Journal Abbreviations](https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/) | [LIST OF IEEE TRANSACTIONS, JOURNALS, AND LETTERS (Abbreviation)](https://ncr.mae.ufl.edu/procedures/tjmnames.pdf) | [IEEE REFERENCE GUIDE](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf)
   - 期刊缩写查询
 - [番茄人生](https://www.tomatolist.com/)
   - 一个融合了番茄工作法、紧急重要四象限工作法、GTD工作法 ，最小化到任务栏中即是迷你番茄时钟的待办事项软件
