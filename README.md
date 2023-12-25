@@ -55,6 +55,7 @@
 - [Engineering Village](https://www.engineeringvillage.com/home.url)
 - [Sci-Hub](https://sci-hub.se/)
 - [arXiv](https://arxiv.org/)
+- [Aminer](https://www.aminer.cn/)
 - [Connected Papers](https://www.connectedpapers.com/)
 - [citexs](https://www.citexs.com/)
   - Connected Papers平替
