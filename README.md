@@ -75,6 +75,8 @@
 ## Conference
 - Conference Partner: [Information about Academic Conferences](https://www.myhuiban.com/)
 - WikiCFP: [A Wiki for Calls for Papers](http://www.wikicfp.com/cfp/)
+- [Recent Call for Papers](http://47.122.22.223/index.jsp)
+- [Aminer 顶会投稿时间线](https://www.aminer.cn/conf)
 - [CCF Rec. Conference Deadlines](https://ccfddl.github.io/)
   - CCF推荐会议倒计时
 - [AI Conference Deadlines](https://aideadlin.es/?sub=ML,NLP,DM,KR,CV,CG,RO,SP,AP,HCI)
