@@ -46,6 +46,7 @@
 
 ## Paper with code
 - **大道至简：** Google Scholar限定词搜索："key word" + "github.com"
+  - [如何查找开源代码的论文？](https://zhuanlan.zhihu.com/p/668676450)
 - [Paper with code for communication and network](https://github.com/Xuezhenggdut/Paper_with_code_for_communication_and_network)
 - [paperswithcode](https://paperswithcode.com/)
 
@@ -69,6 +70,7 @@
 - [中国通信学会：信息通信领域高质量科技期刊分级目录](https://www.china-cic.cn/Detail/24/3234/3234)
 - [中国电子学会关于《电子技术、通信技术领域高质量科技期刊分级目录（征求意见稿）》和《计算机技术领域高质量科技期刊分级目录（征求意见稿）》的公示](https://www.cie.org.cn/list_43/11070.html)
 - [CSRankings: Computer Science Rankings](https://csrankings.org/#/index?all&us)
+  - 计算机科学排名
 - [LetPub](https://www.letpub.com.cn/)
   - 基金查询
 
