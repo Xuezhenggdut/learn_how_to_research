@@ -97,6 +97,7 @@
   - 写作技巧 
 - [Tips for Writing a Research Paper using LaTeX](https://github.com/guanyingc/latex_paper_writing_tips)
 - [Paper Picture Writing Code](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
+  - 基于LaTex和Matplotlib常用的画图代码，共包含折线图、柱状图、散点图、注意力可视化以及结构图五种图
 - [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)
 - [PaperWritingTips](https://github.com/cooelf/PaperWritingTips)
 - [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing)
