@@ -12,29 +12,29 @@
 
 ## Awesome lists 
 
-- [Learning Research](https://github.com/pengsida/learning_research)
+- [Learning Research](https://github.com/pengsida/learning_research) | [![Stars](https://img.shields.io/github/stars/pengsida/learning_research.svg?color=orange)](https://github.com/pengsida/learning_research/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/pengsida/learning_research?label=&message=Commit) |
   - 浙江大学[彭思达](https://pengsida.net/)科研经验分享[[Slides]](https://pengsida.net/files/how_to_do_research_v3.pdf) 
-- [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice)
-  - CMU [Paul Pu Liang](https://www.cs.cmu.edu/~pliang/)的博士生建议
-- [Awesome Lists for Tenure-Track Asst. Professors and PhD students](https://github.com/JunweiLiang/awesome_lists)
+- [awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice) | [![Stars](https://img.shields.io/github/stars/pliang279/awesome-phd-advice.svg?color=orange)](https://github.com/pliang279/awesome-phd-advice/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/pliang279/awesome-phd-advice?label=&message=Commit) |
+  - CMU [Paul Pu Liang](https://www.cs.cmu.edu/~pliang/)的博士生建议 
+- [Awesome Lists for Tenure-Track Asst. Professors and PhD students](https://github.com/JunweiLiang/awesome_lists) | [![Stars](https://img.shields.io/github/stars/JunweiLiang/awesome_lists.svg?color=orange)](https://github.com/JunweiLiang/awesome_lists/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/JunweiLiang/awesome_lists?label=&message=Commit) |
   - 香港科技大学(广州)[梁俊卫](https://junweiliang.me/)助理教授的助理教授/博士生生存指南 
-- [doing_the_PhD](https://github.com/shengyp/doing_the_PhD)
+- [doing_the_PhD](https://github.com/shengyp/doing_the_PhD) | [![Stars](https://img.shields.io/github/stars/shengyp/doing_the_PhD.svg?color=orange)](https://github.com/shengyp/doing_the_PhD/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/shengyp/doing_the_PhD?label=&message=Commit) |
   - 西南大学[盛泳潘](https://shengyp.github.io/)的如何做PhD 
-- [how-to-research](https://github.com/jwwthu/how-to-research)
+- [how-to-research](https://github.com/jwwthu/how-to-research) | [![Stars](https://img.shields.io/github/stars/jwwthu/how-to-research.svg?color=orange)](https://github.com/jwwthu/how-to-research/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/jwwthu/how-to-research?label=&message=Commit) |
   - 北京邮电大学[姜蔚蔚](https://jwwthu.github.io/)的如何做研究
-- [how-to-research-well](https://github.com/jinbao-wang/how-to-research-well)
+- [how-to-research-well](https://github.com/jinbao-wang/how-to-research-well) | [![Stars](https://img.shields.io/github/stars/jinbao-wang/how-to-research-well.svg?color=orange)](https://github.com/jinbao-wang/how-to-research-well/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/jinbao-wang/how-to-research-well?label=&message=Commit) |
   - 南方科技大学[王金宝](https://jinbao-wang.github.io/)的如何做好研究 
-- [research-method](https://github.com/secdr/research-method)
+- [research-method](https://github.com/secdr/research-method) | [![Stars](https://img.shields.io/github/stars/secdr/research-method.svg?color=orange)](https://github.com/secdr/research-method/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/secdr/research-method?label=&message=Commit) | 
   - 安全学术圈的研究方法
 - 中科院吴怀宇：[献给CV和CG入门者之科研经验浅问细答兼与大家探讨](http://ouc.ai/zhenghaiyong/courses/cv/2015spring/readings/research_experience.pdf)
 
 
 ## Research tools
-- [AI-research-tools](https://github.com/bighuang624/AI-research-tools)
-- [Awesome Research Tools](https://github.com/emptymalei/awesome-research)
+- [AI-research-tools](https://github.com/bighuang624/AI-research-tools) | [![Stars](https://img.shields.io/github/stars/bighuang624/AI-research-tools.svg?color=orange)](https://github.com/bighuang624/AI-research-tools/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/bighuang624/AI-research-tools?label=&message=Commit) |  
+- [Awesome Research Tools](https://github.com/emptymalei/awesome-research)| [![Stars](https://img.shields.io/github/stars/emptymalei/awesome-research.svg?color=orange)](https://github.com/emptymalei/awesome-research/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/emptymalei/awesome-research?label=&message=Commit) |  
 - [awesome-cs-tutorial](https://github.com/sanbuphy/awesome-cs-tutorial)
-- [tips-for-scientific-research](https://github.com/tzxiang/tips-for-scientific-research)
-- [ResearchToolkitHub](https://github.com/Xuezhenggdut/ResearchToolkitHub)
+- [tips-for-scientific-research](https://github.com/tzxiang/tips-for-scientific-research) | [![Stars](https://img.shields.io/github/stars/tzxiang/tips-for-scientific-research.svg?color=orange)](https://github.com/tzxiang/tips-for-scientific-research/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/tzxiang/tips-for-scientific-research?label=&message=Commit) |
+- [ResearchToolkitHub](https://github.com/Xuezhenggdut/ResearchToolkitHub) | [![Stars](https://img.shields.io/github/stars/Xuezhenggdut/ResearchToolkitHub.svg?color=orange)](https://github.com/Xuezhenggdut/ResearchToolkitHub/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/Xuezhenggdut/ResearchToolkitHub?label=&message=Commit) |
   - 各大高校图书馆科研培训PPT合集
 
 ## Search
