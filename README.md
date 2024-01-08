@@ -26,6 +26,8 @@
   - 南方科技大学[王金宝](https://jinbao-wang.github.io/)的如何做好研究 
 - [research-method](https://github.com/secdr/research-method) | [![Stars](https://img.shields.io/github/stars/secdr/research-method.svg?color=orange)](https://github.com/secdr/research-method/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/secdr/research-method?label=&message=Commit) | 
   - 安全学术圈的研究方法
+- [Some tips for research and coding](https://github.com/zsdonghao/research-and-coding) | [![Stars](https://img.shields.io/github/stars/zsdonghao/research-and-coding.svg?color=orange)](https://github.com/zsdonghao/research-and-coding/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/zsdonghao/research-and-coding?label=&message=Commit) | 
+  - 北大[董豪](https://zsdonghao.github.io/)的研究资源列表
 - 中科院吴怀宇：[献给CV和CG入门者之科研经验浅问细答兼与大家探讨](http://ouc.ai/zhenghaiyong/courses/cv/2015spring/readings/research_experience.pdf)
 
 
