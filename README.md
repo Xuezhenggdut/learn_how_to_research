@@ -103,6 +103,7 @@
   - 基于LaTex和Matplotlib常用的画图代码，共包含折线图、柱状图、散点图、注意力可视化以及结构图五种图
 - [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)
 - [PaperWritingTips](https://github.com/cooelf/PaperWritingTips)
+- [PaperWriting](https://github.com/wangdongdut/PaperWriting)
 - [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing)
   - LaTeX 绘图，主要用于画贝叶斯网络、张量分解等
 - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
