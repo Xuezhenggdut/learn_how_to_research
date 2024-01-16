@@ -104,6 +104,8 @@
 - [latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)
 - [PaperWritingTips](https://github.com/cooelf/PaperWritingTips)
 - [PaperWriting](https://github.com/wangdongdut/PaperWriting)
+- [Paper Review Response Document Template](https://www.overleaf.com/latex/templates/paper-review-response-document-template/tjxscwvdzjmc)
+  - 回复审稿人模板
 - [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing)
   - LaTeX 绘图，主要用于画贝叶斯网络、张量分解等
 - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
