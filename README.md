@@ -132,6 +132,7 @@
   - 图标素材
 - [pigar](https://github.com/Damnever/pigar)
   - Python 项目 requirements 文件自动生成工具
+- [清华大学研究生学位论文写作指南](https://www.dhs.tsinghua.edu.cn/wp-content/uploads/2023/12/2024031107044595.pdf)
 - [GB/T7714—2015 信息与文献 参考文献著录规则](https://lib.tsinghua.edu.cn/wj/GBT7714-2015.pdf)
   - 中文参考文献引用格式规范
 
