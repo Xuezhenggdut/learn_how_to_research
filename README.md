@@ -28,7 +28,9 @@
   - 安全学术圈的研究方法
 - [Some tips for research and coding](https://github.com/zsdonghao/research-and-coding) | [![Stars](https://img.shields.io/github/stars/zsdonghao/research-and-coding.svg?color=orange)](https://github.com/zsdonghao/research-and-coding/stargazers) | ![Last Commit](https://img.shields.io/github/last-commit/zsdonghao/research-and-coding?label=&message=Commit) | 
   - 北大[董豪](https://zsdonghao.github.io/)的研究资源列表
+- 湘潭大学[李澄清](http://chengqingli.com/)：[Miscellaneous Resources on Doing Research](http://www.chengqingli.com/htdr/htdr.htm) | [Chinese Resources on Doing Research](http://chengqingli.com/htwrp_c/_htdr_c.htm)
 - 中科院吴怀宇：[献给CV和CG入门者之科研经验浅问细答兼与大家探讨](http://ouc.ai/zhenghaiyong/courses/cv/2015spring/readings/research_experience.pdf)
+
 
 
 ## Research tools
@@ -108,6 +110,7 @@
 - [PaperWriting](https://github.com/wangdongdut/PaperWriting)
 - [Paper Review Response Document Template](https://www.overleaf.com/latex/templates/paper-review-response-document-template/tjxscwvdzjmc)
   - 回复审稿人模板
+- 清华[刘洋](https://nlp.csai.tsinghua.edu.cn/~ly/)：[机器翻译学术论⽂写作⽅法和技巧](https://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
 - [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing)
   - LaTeX 绘图，主要用于画贝叶斯网络、张量分解等
 - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
