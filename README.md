@@ -43,6 +43,7 @@
 
 搜论文，搜期刊，搜会议，搜代码，搜开源代码论文，搜研究方向，搜课题组，搜基金，搜研究工具，搜模板，搜索如此重要，不同的搜索工具搜索出来的结果天差地别，噪声信息充斥着各个平台，一定要找到有效信息的源头，避免咀嚼过的十八手信息，推荐英文+谷歌/谷歌学术搜索。[Video](https://www.bilibili.com/video/BV1yw411F7J1/?spm_id_from=333.337.search-card.all.click)
 
+- [How to Google like a Pro – 10 Tips for More Effective Googling](https://www.freecodecamp.org/chinese/news/how-to-google-like-a-pro-10-tips-for-effective-googling/)
 - [NSFC Final Project Inquiry](https://kd.nsfc.cn/)
   - 基金结题报告查询
   - [知乎：怎么下载其他人的国家自然科学基金结题报告？](https://www.zhihu.com/question/58311059)
