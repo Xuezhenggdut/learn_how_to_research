@@ -157,6 +157,7 @@
 
 ## Other Advices
 - Github带Awesome的仓库，例如：[Awesome-FL](https://github.com/youngfish42/Awesome-FL)
+- [Git及Github教程](https://www.github-zh.com/post/git-tutorial)
 - [博士新生应该懂得哪些道理？](https://www.zhihu.com/question/338503201/answer/3251327758)
 - [你的科研能力从什么时候开始突飞猛进的？](https://www.zhihu.com/question/524855881/answer/2819447733)
 - [作为一个研究生，有哪些你直呼好用的科研神器？](https://www.zhihu.com/question/484596211)
