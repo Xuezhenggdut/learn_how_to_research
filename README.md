@@ -49,6 +49,8 @@
 - [NSFC Final Project Inquiry](https://kd.nsfc.cn/)
   - 基金结题报告查询
   - [知乎：怎么下载其他人的国家自然科学基金结题报告？](https://www.zhihu.com/question/58311059)
+- [Z-Library](https://zh.z-lib.gs/)
+  - 书籍下载不求人
 
 ## Paper with code
 - **大道至简：** Google Scholar限定词搜索："key word" + "github.com"
