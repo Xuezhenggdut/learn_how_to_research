@@ -30,6 +30,7 @@
   - 北大[董豪](https://zsdonghao.github.io/)的研究资源列表
 - 湘潭大学[李澄清](http://chengqingli.com/)：[Miscellaneous Resources on Doing Research](http://www.chengqingli.com/htdr/htdr.htm) | [Chinese Resources on Doing Research](http://chengqingli.com/htwrp_c/_htdr_c.htm)
 - 中科院吴怀宇：[献给CV和CG入门者之科研经验浅问细答兼与大家探讨](http://ouc.ai/zhenghaiyong/courses/cv/2015spring/readings/research_experience.pdf)
+- [Miao YU](https://yufree.cn/)：[现代科研指北](https://github.com/yufree/sciguide)
 
 
 
