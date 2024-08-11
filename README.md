@@ -116,6 +116,7 @@
 - [Paper Review Response Document Template](https://www.overleaf.com/latex/templates/paper-review-response-document-template/tjxscwvdzjmc)
   - 回复审稿人模板
 - 清华[刘洋](https://nlp.csai.tsinghua.edu.cn/~ly/)：[如何撰写高质量科技论文](https://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf) | [Video](https://mp.weixin.qq.com/s/IMW_Z2v_HBAemYuI_kjUjg)
+- [The Most Common Habits from more than 200 English Papers written by Graduate Chinese Engineering Students](http://staff.ustc.edu.cn/~jpq/writing/The%20Most%20Common%20Habits.pdf)
 - [Awesome LaTeX drawing](https://github.com/xinychen/awesome-latex-drawing)
   - LaTeX 绘图，主要用于画贝叶斯网络、张量分解等
 - [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
