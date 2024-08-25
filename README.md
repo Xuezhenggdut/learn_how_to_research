@@ -63,7 +63,7 @@
 
 ## Journal
 - [Google Scholar](https://scholar.google.com/)
-- [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
+- [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp) | [IEEE Xplore使用指南](https://www.pengchenglab.com/attachment/file/IEEE%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.pdf)
 - [ACM Digital Library](https://dl.acm.org/)
 - [Web of Science](https://webofscience.clarivate.cn/wos/alldb/basic-search)
 - [Engineering Village](https://www.engineeringvillage.com/home.url)
