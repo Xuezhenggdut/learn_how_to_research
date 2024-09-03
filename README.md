@@ -75,7 +75,7 @@
   - Connected Papers平替
 - dblp: [Computer science bibliography](https://dblp.org/)
 - CCF: [Recommended Publications by China Computer Federation](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
-- THU: [清华大学-重要国际会议目录](https://lib.tsinghua.edu.cn/resource/qh/guide/international_conference_2020.pdf)
+- THU: [清华-重要国际会议目录](https://lib.tsinghua.edu.cn/resource/qh/guide/international_conference_2020.pdf)
 - BUPT: [北邮-重要会议列表](https://sice.bupt.edu.cn/kxyj/zyhylb.htm)
 - [分区查询：中国科学院文献情报中心期刊分区表](https://www.fenqubiao.com/Default.aspx)
 - [中国通信学会：信息通信领域高质量科技期刊分级目录](https://www.china-cic.cn/Detail/24/3234/3234)
