@@ -60,6 +60,7 @@
   - [如何查找开源代码的论文？](https://zhuanlan.zhihu.com/p/668676450)
 - [Paper with code for communication and network](https://github.com/Xuezhenggdut/Paper_with_code_for_communication_and_network)
 - [paperswithcode](https://paperswithcode.com/)
+- 谷歌插件：AI Code Finder, Alerts, Ask Questions about Papers: CatalyzeX
 
 ## Journal
 - [Google Scholar](https://scholar.google.com/) | [基于标签检索领域研究学者](https://www.jianshu.com/p/adec05e01c50)
@@ -81,6 +82,7 @@
 - [中国通信学会：信息通信领域高质量科技期刊分级目录](https://www.china-cic.cn/Detail/24/3234/3234)
 - [中国电子学会关于《电子技术、通信技术领域高质量科技期刊分级目录（征求意见稿）》和《计算机技术领域高质量科技期刊分级目录（征求意见稿）》的公示](https://www.cie.org.cn/list_43/11070.html)
 - [中国人工智能学会推荐国际学术会议和国际/国内期刊目录](https://www.caai.cn/index.php?s=/home/article/detail/id/3445.html)
+- 谷歌插件：easyScholar
 - [CSRankings: Computer Science Rankings](https://csrankings.org/#/index?all&us)
   - 计算机科学排名
 - [LetPub](https://www.letpub.com.cn/)
