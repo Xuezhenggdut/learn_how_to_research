@@ -82,7 +82,7 @@
 - [中国通信学会：信息通信领域高质量科技期刊分级目录](https://www.china-cic.cn/Detail/24/3234/3234)
 - [中国电子学会关于《电子技术、通信技术领域高质量科技期刊分级目录（征求意见稿）》和《计算机技术领域高质量科技期刊分级目录（征求意见稿）》的公示](https://www.cie.org.cn/list_43/11070.html)
 - [中国人工智能学会推荐国际学术会议和国际/国内期刊目录](https://www.caai.cn/index.php?s=/home/article/detail/id/3445.html)
-- 谷歌浏览器插件：easyScholar
+- 谷歌浏览器插件：easyScholar、沉浸式翻译
 - [CSRankings: Computer Science Rankings](https://csrankings.org/#/index?all&us)
   - 计算机科学排名
 - [LetPub](https://www.letpub.com.cn/)
