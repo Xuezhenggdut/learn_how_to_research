@@ -79,7 +79,8 @@
 - THU: [清华-重要国际会议目录](https://lib.tsinghua.edu.cn/resource/qh/guide/international_conference_2020.pdf)
 - BUPT: [北邮-重要会议列表](https://sice.bupt.edu.cn/kxyj/zyhylb.htm)
 - [分区查询：中国科学院文献情报中心期刊分区表](https://www.fenqubiao.com/Default.aspx)
-- [中国通信学会：信息通信领域高质量科技期刊分级目录](https://www.china-cic.cn/Detail/24/3234/3234)
+- [科学技术创新部：高质量科技期刊分级目录总汇第三版](https://www.cast.org.cn/xw/tzgg/KJCX/art/2023/art_a46ba372e0064dfc8dc4c03289a8920d.html)
+- [中国通信学会：信息通信领域高质量科技期刊分级目录(2021)](https://www.china-cic.cn/Detail/24/67/3322/%E7%9B%AE%E5%BD%95)
 - [中国电子学会关于《电子技术、通信技术领域高质量科技期刊分级目录（征求意见稿）》和《计算机技术领域高质量科技期刊分级目录（征求意见稿）》的公示](https://www.cie.org.cn/list_43/11070.html)
 - [中国人工智能学会推荐国际学术会议和国际/国内期刊目录](https://www.caai.cn/index.php?s=/home/article/detail/id/3445.html)
 - 谷歌浏览器插件：easyScholar、沉浸式翻译
