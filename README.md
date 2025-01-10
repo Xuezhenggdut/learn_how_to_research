@@ -154,6 +154,8 @@
 - [Awesome-Beamer-Collection](https://github.com/lemoxiao/Awesome-Beamer-Collection)
 - [bolei_awesome_posters](https://github.com/zhoubolei/bolei_awesome_posters)
 - [学术PPT教程（上）外观基础（下）内容讲解](http://chengqingli.com/htwrp_c/Mima-Academic-PPT-CN.pdf)
+- [FlyClock](https://shinyware.net/)
+  - PPT/PDF自动计时器
 
 ## Courses
 - [cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
