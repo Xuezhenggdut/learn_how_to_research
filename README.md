@@ -145,7 +145,7 @@
   - Python 项目 requirements 文件自动生成工具
 - [清华大学研究生学位论文写作指南](https://www.dhs.tsinghua.edu.cn/wp-content/uploads/2023/12/2024031107044595.pdf)
 - [GB/T7714—2015 信息与文献 参考文献著录规则](https://lib.tsinghua.edu.cn/wj/GBT7714-2015.pdf)
-  - 中文参考文献引用格式规范
+  - 中文参考文献引用格式规范 | [参考文献GB/T 7714-2015常见问题与错误大全](https://zhuanlan.zhihu.com/p/671491853)
 
 ## Presentation (Beamers & Posters)
 - [awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers)
