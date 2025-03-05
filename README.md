@@ -55,6 +55,8 @@
   - [知乎：怎么下载其他人的国家自然科学基金结题报告？](https://www.zhihu.com/question/58311059)
 - [Z-Library](https://zh.z-lib.gs/)
   - 书籍下载不求人
+- [清华大学图书馆资源分类](https://lib.tsinghua.edu.cn/zy/alxc.htm)
+  - 资源的类型科普、以及相关资源的访问链接（会议论文全文库、学位论文库（国内、国外）、专利说明书检索及全文获取途径、标准数据库及网上免费检索资源、统计资料、国内外统计网站等）
 
 ## Paper with code
 - **大道至简：** Google Scholar限定词搜索："key word" + "github.com"
