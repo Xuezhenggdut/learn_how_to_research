@@ -164,6 +164,7 @@
 - [DeepLearning Tutorial](https://github.com/Mikoto10032/DeepLearning)
 
 ## AIGC
+- [深大图书馆：生成式人工智能专题](https://www.lib.szu.edu.cn/learning/ai)
 - [ChatGPT](https://chat.openai.com/)
 - [Bard](https://bard.google.com/chat) 
 - [LLMs-In-China](https://github.com/wgwang/LLMs-In-China)
