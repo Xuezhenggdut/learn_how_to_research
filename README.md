@@ -179,6 +179,7 @@
 - [作为一个研究生，有哪些你直呼好用的科研神器？](https://www.zhihu.com/question/484596211)
 - [在信息过剩的时代，你有提升信噪比的能力吗？](https://zhuanlan.zhihu.com/p/358348827)
 - [如何找到高质量信息源？](https://mp.weixin.qq.com/s/TkVtanL_8ySXapyXB034qQ)
+- [上海交通大学生存手册](https://github.com/SurviveSJTU/SurviveSJTUManual)
 
 ---
 若该文档对您有所帮助，请在页面右上角点个Star :star: 支持一下，谢谢！
