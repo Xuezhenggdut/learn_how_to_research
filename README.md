@@ -131,7 +131,7 @@
 - [Python Plotting Tools](https://github.com/guanyingc/python_plot_utils)
 - [LaTeX Tables Editor](https://www.latex-tables.com/) | [Tables Generator](https://www.tablesgenerator.com/)
   - LaTeX表格工具
-- [SimpleTex](https://simpletex.cn/)
+- [SimpleTex](https://simpletex.cn/) | [Document AI](https://doc.bitwsd.com/doc_ai/)
   - 公式/文档识别为LaTex
 - [Science and Engineering Journal Abbreviations](https://woodward.library.ubc.ca/woodward/research-help/journal-abbreviations/) | [LIST OF IEEE TRANSACTIONS, JOURNALS, AND LETTERS (Abbreviation)](https://ncr.mae.ufl.edu/procedures/tjmnames.pdf) | [IEEE REFERENCE GUIDE](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf)
   - 期刊缩写查询
