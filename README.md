@@ -153,6 +153,8 @@
 - [awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers)
 - [Overleaf-Templates-Presentation](https://www.overleaf.com/latex/templates/tagged/presentation)
   - Overleaf Presentation模板
+- [Pympress](https://github.com/Cimbali/pympress) | [beamer-slides-with-notes](https://gist.github.com/andrejbauer/ac361549ac2186be0cdb)
+  - Pympress is a PDF presentation tool designed for dual-screen setups such as presentations and public talks. 
 - [Awesome-Beamer-Collection](https://github.com/lemoxiao/Awesome-Beamer-Collection)
 - [bolei_awesome_posters](https://github.com/zhoubolei/bolei_awesome_posters)
 - [学术PPT教程（上）外观基础（下）内容讲解](http://chengqingli.com/htwrp_c/Mima-Academic-PPT-CN.pdf)
